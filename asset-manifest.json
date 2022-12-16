@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/happy-holiday/static/css/main.554db793.css",
+    "main.js": "/happy-holiday/static/js/main.503cc5c8.js",
+    "static/media/card-bg.jpg": "/happy-holiday/static/media/card-bg.850fef9af7d6ad7ecfae.jpg",
+    "static/media/open-sans-v29-latin_cyrillic-regular.woff": "/happy-holiday/static/media/open-sans-v29-latin_cyrillic-regular.357fd6edbf9de5d51a91.woff",
+    "static/media/open-sans-v29-latin_cyrillic-700.woff": "/happy-holiday/static/media/open-sans-v29-latin_cyrillic-700.e2b5a349bd45093d6993.woff",
+    "static/media/open-sans-v29-latin_cyrillic-regular.woff2": "/happy-holiday/static/media/open-sans-v29-latin_cyrillic-regular.d0378a7641136f5d48e3.woff2",
+    "static/media/open-sans-v29-latin_cyrillic-700.woff2": "/happy-holiday/static/media/open-sans-v29-latin_cyrillic-700.6a33ff8a2442a9c6eeb9.woff2",
+    "static/media/vk.svg": "/happy-holiday/static/media/vk.4e83db61c8bb0a68c7664df2298d1eb2.svg",
+    "static/media/tg.svg": "/happy-holiday/static/media/tg.f50ba9b86ff02587b669091c6588b219.svg",
+    "static/media/pin.svg": "/happy-holiday/static/media/pin.fc3a348219c215971f00620f54c63a77.svg",
+    "index.html": "/happy-holiday/index.html",
+    "main.554db793.css.map": "/happy-holiday/static/css/main.554db793.css.map",
+    "main.503cc5c8.js.map": "/happy-holiday/static/js/main.503cc5c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.554db793.css",
+    "static/js/main.503cc5c8.js"
+  ]
+}
